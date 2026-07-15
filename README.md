@@ -18,4 +18,4 @@ The model uses an Artificial Neural Network (ANN) to map soil stabilization mix 
 * **Model Architecture:** A feedforward neural network (`Sequential` model) with:
   * 1 Hidden Layer (10 neurons, `tanh` activation)
   * 1 Output Layer (2 neurons, `tanh` activation)
-  * Trained using the `Adam` optimizer and Mean Squared Error (`mse`) loss over 200 epochs.
+  *   * Trained using the `Adam` optimizer and Mean Squared Error (`mse`) loss over 200 epochs.
